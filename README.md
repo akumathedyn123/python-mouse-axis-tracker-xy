@@ -60,11 +60,11 @@ Python
 # listener.stop()
 
 
-##Contributing:
+## Contributing:
 
 We welcome contributions to this project! Feel free to fork the repository, make your changes, and submit a pull request.
 
-##Additional Notes:
+## Additional Notes:
 
 This is a basic example. You can extend it to perform additional actions based on mouse movement events (e.g., logging coordinates to a file, triggering other functionalities).
 For more advanced usage of the pynput library, refer to its official documentation: https://pynput.readthedocs.io/en/latest/
