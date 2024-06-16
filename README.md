@@ -47,7 +47,7 @@ pip install pynput
 **Run the Script:**
 From the project directory, execute the following command to start tracking your mouse coordinates:
 ```bash
-python main.py  # Replace with the actual name of your main Python file if different
+python main.py
 ```
 
 
