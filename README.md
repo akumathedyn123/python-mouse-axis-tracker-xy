@@ -13,7 +13,7 @@ This Python project utilizes the `pynput` library to continuously monitor and di
 
 **License:**
 
-MIT License (Replace with your preferred license if different)
+MIT License
 
 **Installation:**
 
