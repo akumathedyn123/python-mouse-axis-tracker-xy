@@ -1,4 +1,4 @@
-## Project Name: Python Mouse Tracker
+# Project Name: Python Mouse Tracker
 
 **Description:**
 
@@ -57,7 +57,7 @@ Optional Stopping:
 If you want to stop tracking the mouse movements before you interrupt the program with Ctrl+C, uncomment the following line in the main.py file:
 Python
 
-# listener.stop()
+### listener.stop()
 
 
 ## Contributing:
