@@ -27,7 +27,7 @@ MIT License
    - Use the following command to clone this repository (replace `https://github.com/your-username/python-mouse-tracker` with the actual URL of your repository):
 
 ```bash
-git clone https://github.com/akumathedyn123/python-mouse-axis-tracker-xy
+git clone https://github.com/akumathedyn123/python-mouse-axis-tracker-xy.git
 ```
 
 
