@@ -24,7 +24,7 @@ MIT License
 
 2. **Clone the Repository:**
    - Open a terminal or command prompt and navigate to the directory where you want to clone the project.
-   - Use the following command to clone this repository (replace `https://github.com/your-username/python-mouse-tracker` with the actual URL of your repository):
+   - Use the following command to clone this repository:
 
 ```bash
 git clone https://github.com/akumathedyn123/python-mouse-axis-tracker-xy.git
