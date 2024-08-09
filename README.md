@@ -1,4 +1,4 @@
-# Project Name: Python Mouse Tracker
+# Project Name: Python Mouse Tracker 
 
 **Description:**
 
